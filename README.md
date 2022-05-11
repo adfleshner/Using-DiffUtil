@@ -1,5 +1,5 @@
 # Using-DiffUtil
-Medium Article for creating an Android List of Users using DiffUtil  
+[Medium Article](https://medium.com/@adfleshner/creating-a-list-easily-using-androids-viewbinding-recyclerview-and-diffutil-4f2a242c6eed) for creating an Android List of Users using DiffUtil  
 This is the project that is assoicated with the Medium Article 'Creating a List easily using Android's ViewBinding, RecyclerView and DiffUtil'
 
 ### Showing off the power of the DiffUtil  
